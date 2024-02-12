@@ -1,13 +1,26 @@
 {
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "workbench.startupEditor": "none",
-    "python.defaultInterpreterPath": "E:\\Python\\Python3107\\python.exe",
-    "python.formatting.provider": "black",
-    "editor.formatOnSave": true,
-    "workbench.colorTheme": "Monokai Dimmed",
-    "workbench.iconTheme": "ayu",
-    "workbench.settings.editor": "json",
-    "workbench.settings.openDefaultSettings": true,
-    "vsicons.dontShowNewVersionMessage": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.startupEditor": "none",
+  "python.defaultInterpreterPath": "E:\\Python\\Python3107\\python.exe",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Abyss",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.settings.editor": "json",
+  "workbench.settings.openDefaultSettings": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "git.autofetch": true,
+  "liveSassCompile.settings.formats": [
+    {
+      // This is Default
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/dist/css"
+    }
+  ],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[python]": {
+    "editor.formatOnType": true
+  }
 }
