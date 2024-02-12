@@ -1,0 +1,13 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.startupEditor": "none",
+    "python.defaultInterpreterPath": "E:\\Python\\Python3107\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "vsicons.dontShowNewVersionMessage": true,
+}
